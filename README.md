@@ -5,7 +5,7 @@
 -     APA ITU GIT?
 - GIT merupakan salah satu VSC(version control system) yang diciptakan linux, bertugas mencatat setiap perubahan pada file proyek yang dikerjakan seorang individu maupun kelompok
 -     BAGAIMANA CARA MENDAPATKAN GIT
-- GIT dapat didownload melalui link http:// git-scm.com
+- GIT dapat didownload melalui link https:// git-scm.com
 - tedapat berbagai pilihan dalam mengguiduh GIT karna itu diharapkan menggunduh GIT sesuai diviece masing-masing
 - setelah proses penginstalan aplikasi akan muncul cdma atau powershell ketik printah git --version untuk mengecek versi git yang telah diunduh
 -     PERINTAH DASAR GIT
