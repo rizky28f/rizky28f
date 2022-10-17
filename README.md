@@ -2,7 +2,7 @@
 - 👀 Dan ini adalah tugas saya pada kelas TI 
 - 🌱 Disini Saya akan sedikit membahas tentang git
 - 💞️ maka dari itu kita lansung saja
-      APA ITU GIT?
+-     APA ITU GIT?
 - GIT merupakan salah satu VSC(version control system) yang diciptakan linux, bertugas mencatat setiap perubahan pada file proyek yang dikerjakan seorang individu maupun kelompok
 -     BAGAIMANA CARA MENDAPATKAN GIT
 - GIT dapat didownload melalui link http:// git-scm.com
